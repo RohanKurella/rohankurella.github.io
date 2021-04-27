@@ -3,26 +3,17 @@
 I am a B.TECH 1st Year Student Studying at VNR Vignana Jyothi Institute of Engineering And Technology.
 
 I am Currently Studying Intenet of Things Under The Department of Computer Science.
-### TEST Heading 1
 
-Test Body
+
 
 ```markdown
-Syntax highlighted code block
-
-# Welcome To My Website
-## Rohan Kurella
-### College Student
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#include<stdio.h>
+int main()
+{
+  printf("Hello, World!");
+  Printf("Website Created by K. Rohan"):
+  return 0;
+}
 ```
 
 ### Contact
